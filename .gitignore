@@ -1,0 +1,10 @@
+# 1. NUNCA suba as variáveis de ambiente (Chaves de API)
+.env
+
+# 2. Ignorar as pastas de "build" do C# (elas são geradas automaticamente)
+[Bb]in/
+[Oo]bj/
+
+# 3. Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
