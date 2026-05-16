@@ -526,13 +526,12 @@ This project was developed for the **Grupo Fácil Hackathon - Programa de Estág
 
 ---
 
-## 👩‍💻 Author
+## 👩🏾‍💻 Author
 
 **Amanda Fernandes** — Software Engineer
 
-- SOLID principles, Clean Architecture advocate
-- AI integration specialist
-- Enterprise document processing
+- Student of Industrial Engineering at UFMG
+- Minas Gerais, Brazil
 
 ---
 
