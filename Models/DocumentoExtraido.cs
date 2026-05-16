@@ -1,5 +1,4 @@
 using System.Text.Json.Serialization;
-
 namespace HackathonValidador.Models;
 
 // 1. A CLASSE BASE (Só tem o que TODO documento tem)
