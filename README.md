@@ -19,8 +19,6 @@ An AI-powered CLI application for automated extraction and validation of health 
   - [Configure Environment Variables](#3-configure-environment-variables)
   - [Provide Test Documents](#4-provide-test-documents)
   - [Run the Application](#5-run-the-application)
-- [Design Principles](#-design-principles)
-- [Project Goals](#-project-goals)
 - [License](#-license)
 
 ---
@@ -43,7 +41,6 @@ Its primary objective is to reduce manual verification effort while improving co
 
 | Feature | Description |
 |---|---|
-| **Multi-Format Support** | Supports PDF, PNG, JPG, and JPEG files |
 | **AI Document Classification** | Identifies document types such as RG, CNH, and Passports |
 | **Structured Data Extraction** | Extracts fields like Full Name, Date of Birth, Document Number, and Expiration Date |
 | **Deterministic Validation Rules** | Applies strict validation logic for required fields, expiration dates, and legibility |
@@ -196,33 +193,6 @@ Navigate through the interface using:
 |---|---|
 | `↑ ↓` | Navigate menus |
 | `Enter` | Select option |
-
----
-
-# 📐 Design Principles
-
-The application prioritizes:
-
-- Readability
-- Extensibility
-- Maintainability
-- Scalability
-- Low coupling
-- High cohesion
-
-The architecture was intentionally designed to simplify future integrations and support additional document types with minimal implementation effort.
-
----
-
-# 🎯 Project Goals
-
-This project was developed as part of the **Grupo Fácil Health Tech Challenge** with the following objectives:
-
-- Automate onboarding document validation
-- Reduce operational overhead
-- Improve validation consistency
-- Demonstrate scalable AI-assisted architecture
-- Apply modern software engineering practices
 
 ---
 
