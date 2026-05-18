@@ -513,7 +513,7 @@ Select image:
 │   RELATÓRIO DE VALIDAÇÃO               │
 ├──────────────┬─────────────────────────┤
 │ Tipo         │ RG                      │
-│ Veredito     │ ✔ APROVADO              │
+│ Veredito     │ APROVADO                │
 │ Parecer      │ RG validado com sucesso │
 └──────────────┴─────────────────────────┘
 ```
